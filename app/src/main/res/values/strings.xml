@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComposeSubmission</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="no_data">There is no data</string>
+    <string name="back">Back Button</string>
+    <string name="favorite">Favorite</string>
+    <string name="biography">Biography</string>
+    <string name="skills">Skills</string>
+    <string name="search_agent_name">Search agent name</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="name">Ahmad Syawal. S</string>
+    <string name="email">ahmadsyawals028@gmail.com</string>
+</resources>
